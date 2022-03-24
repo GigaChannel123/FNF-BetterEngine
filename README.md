@@ -1,8 +1,12 @@
 # Friday Night Funkin' - Better Engine
 THIS IS NOT OFFICIAL ENGINE!!
-This Just A Modification Psych Engine That I'll Add a Leather Engine And Kade Engine Features\n
+
+This Just A Modification Psych Engine That I'll Add a Leather Engine And Kade Engine Features
+
 Example :
+
 Leather Engine : Extra Keys, Mods Menu Image, Icon, Winning Icon, And More :P
+
 Kade Engine : Circle Note (from kade engine 1.8), Custom Story Menu (in source code), Custom Main Menu (in source code), And More :P
 
 ## Installation:
