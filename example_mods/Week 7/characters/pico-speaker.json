@@ -1,0 +1,193 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "shoot1",
+			"fps": 24,
+			"name": "shoot1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-88
+			],
+			"anim": "shoot2",
+			"fps": 24,
+			"name": "shoot2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				361,
+				-64
+			],
+			"anim": "shoot3",
+			"fps": 24,
+			"name": "shoot3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				398,
+				-19
+			],
+			"anim": "shoot4",
+			"fps": 24,
+			"name": "shoot4",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				398,
+				-19
+			],
+			"anim": "shoot4-loop",
+			"fps": 24,
+			"name": "shoot4",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "shoot1-loop",
+			"fps": 24,
+			"name": "shoot1",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				361,
+				-64
+			],
+			"anim": "shoot3-loop",
+			"fps": 24,
+			"name": "shoot3",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-88
+			],
+			"anim": "shoot2-loop",
+			"fps": 24,
+			"name": "shoot2",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singU",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-99
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-51
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-38
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				387,
+				-17
+			],
+			"anim": "shootTankman",
+			"fps": 24,
+			"name": "shoot at",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-89
+			],
+			"anim": "Idle",
+			"fps": 24,
+			"name": "pico idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/picoSpeaker",
+	"position": [
+		120,
+		-125
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-30,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
