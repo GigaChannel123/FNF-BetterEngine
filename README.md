@@ -35,7 +35,9 @@ _____________________________________
 
 ## Better Main Menu
 
-* 
+* Removed Main Menu Image
+
+* Added New Menu Button (can clicked by mouse)
 
 ## Better Story Mode Menu
 
@@ -47,22 +49,22 @@ _____________________________________
 * Main Menu Image :p
 
 ### Week 1 : 
-* Dad VS BF
+* Dad VS Boyfriend
 
 ### Week 2 :
-* Spooky VS BF
+* Spooky VS Boyfriend
 
 ### Week 3 :
-* Pico VS BF
+* Pico VS Boyfriend
 
 ### Week 4 : 
-* Mom VS BF
+* Mom VS Boyfriend
 
-###* Week 5 : 
-* Dad & Mom VS BF Christmas
+### Week 5 : 
+* Dad & Mom VS Boyfriend Christmas
 
 ### Week 6 : 
-* Senpai VS BF
+* Senpai VS Pixel Boyfriend(blur)
 
 ### Week 7 :
-* Tankman VS BF
+* Tankman VS Boyfriend
