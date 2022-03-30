@@ -24,8 +24,10 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 ### Special Thanks
 * ShadowMario - Psych Engine Main Developer
 _____________________________________
-.
+
 # Features
+
+CIRCLE NOTE STILL IN DEVELOPMENT!!
 
 ## Icon
 
