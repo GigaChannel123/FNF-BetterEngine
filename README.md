@@ -7,7 +7,7 @@ Example :
 
 Leather Engine : Extra Keys, Mods Menu Image, Icon, Winning Icon, And More :P
 
-Kade Engine : Circle Note (from kade engine 1.8), Custom Story Menu (in source code), Custom Main Menu (in source code), And More :P
+Kade Engine : Circle Note (from kade engine 1.8), Custom Story Menu, Custom Main Menu, And More :P
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
@@ -25,3 +25,44 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * ShadowMario - Psych Engine Main Developer
 _____________________________________
 .
+# Features
+
+## Icon
+
+* Replaced old icon to new icon (leather engine)
+
+* Added cool winning icon
+
+## Better Main Menu
+
+* 
+
+## Better Story Mode Menu
+
+* Removed Character In Story Menu (still can used)
+
+* Now Added A Background Image For All Week (in communitygame thumbnail styles :p)
+
+### Tutorial : 
+* Main Menu Image :p
+
+### Week 1 : 
+* Dad VS BF
+
+### Week 2 :
+* Spooky VS BF
+
+### Week 3 :
+* Pico VS BF
+
+### Week 4 : 
+* Mom VS BF
+
+###* Week 5 : 
+* Dad & Mom VS BF Christmas
+
+### Week 6 : 
+* Senpai VS BF
+
+### Week 7 :
+* Tankman VS BF
